@@ -1,4 +1,6 @@
 /* times-new-roman.css */
 .markmap-foreign > div {
     font-family: "Times New Roman", Times, serif !important;
+    em { font-style: italic !important; }
+strong { font-weight: bold !important; }
   }
