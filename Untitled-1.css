@@ -1,0 +1,4 @@
+/* times-new-roman.css */
+.markmap-foreign > div {
+    font-family: "Times New Roman", Times, serif !important;
+  }
